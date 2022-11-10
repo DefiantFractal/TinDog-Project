@@ -1,3 +1,2 @@
-TinDog Starting Files
-
-Files downloaded. Project started.
+Webpage can be viewed here: 
+https://defiantfractal.github.io/TinDog-Project
